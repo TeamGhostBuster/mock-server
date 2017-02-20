@@ -1,0 +1,34 @@
+{
+  "articles": [{
+      "id": 1,
+      "title": "Software Process",
+      "url": "https://google.ca",
+      "tags": ["science", "arts"]
+    }, {
+      "id": 2,
+      "title": "whatever",
+      "url": "https://google.ca",
+      "tags": ["science", "arts"]
+    }
+  ],
+  "list": [{
+    "id": 1,
+    "name": "CMPUT495 Seminar W17",
+    "articles": [{
+        "id": 1,
+        "title": "Software Process"
+      },
+      {
+        "id": 2,
+        "title": "whatever"
+      }
+    ]
+  }],
+  "lists": [{
+    "id": 1,
+    "name": "CMPUT495 Seminar W17"
+  }, {
+    "id": 2,
+    "name": "CMPUT401 Seminar"
+  }]
+}
